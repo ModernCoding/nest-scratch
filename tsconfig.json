@@ -2,7 +2,7 @@
   "compilerOptions": {
     "module": "commonjs",
     "target": "es2017",
-    "experimentaldecorators": true,
+    "experimentalDecorators": true,
     "emitDecoratorMetadata": true
   }
 }
